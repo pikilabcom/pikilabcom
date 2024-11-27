@@ -1,16 +1,20 @@
-<p align="left">Güncel Teknolojilerle Web & Mobil Yazılım Çözümleri</p>
+<p align="left">Web and Mobile Software Solutions with Current Technologies</p>
 
 ###
 
-<p align="left">İşinizi birlikte büyütmek için buradayız! Güncel teknolojilerle web ve mobil yazılım çözümleri üretiyoruz. İhtiyaçlarınızı anlıyor, özelleştirilmiş çözümler sunuyoruz. Geleceğinizi yazılımla şekillendirmek için iş birliği yapmaya hazırız.</p>
+<p align="left">We're here to grow your business together! We create web and mobile software solutions using cutting-edge technologies. We understand your needs and provide customized solutions. We're ready to collaborate to shape your future with software.</p>
 
 ###
 
-<p align="left">İletişime geç:</p>
+<p align="left">Do you need help?</p>
 
 ###
 
 <p align="left">📧 <a href="mailto:info@pikilab.com">info@pikilab.com</a></p><br>
+
+###
+
+<p align="left">🖥 Front-End</p>
 
 ###
 
