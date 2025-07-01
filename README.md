@@ -14,10 +14,6 @@
 
 ###
 
-<p align="left">Some of the skills I have worked on in over 10 years of experience:<br><br>🖥 Front-End</p>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="23" alt="html5 logo"  />
   <img width="12" />
