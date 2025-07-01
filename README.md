@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📧 <a href="mailto:info@pikilab.com">info@pikilab.com</a></p><br>
+<p align="left">📧 <a href="mailto:info@pikilab.com">info@pikilab.com</a></p>
 
 ###
 
