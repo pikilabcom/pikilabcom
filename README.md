@@ -1,30 +1,20 @@
-<h3 align="left">👋 Hi, I'm Özkan BÜYÜK</h3>
+<p align="left">Web and Mobile Software Solutions with Current Technologies</p>
 
 ###
 
-<p align="left">I'am a Full-Stack Developer</p>
+<p align="left">We're here to grow your business together! We create web and mobile software solutions using cutting-edge technologies. We understand your needs and provide customized solutions. We're ready to collaborate to shape your future with software.</p>
 
 ###
 
-<p align="left">I have over 10 years of experience in web and mobile development. Throughout this period, I have worked in software-focused companies and provided software support to clients individually. I started my software journey with PHP and Java, and since then, I have developed numerous web and mobile applications.</p>
+<p align="left">Do you need help?</p>
 
 ###
 
-<p align="left">Connect with me:</p>
+<p align="left">📧 <a href="mailto:info@pikilab.com">info@pikilab.com</a></p><br>
 
 ###
 
-<p align="left">📧 <a href="mailto:ozkanbuyuk@icloud.com">ozkanbuyuk@icloud.com</a></p><br>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/ozkanbuyuk/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<p align="left">Some of the skills I have worked on in over 10 years of experience:<br><br>🖥 Front-End</p>
+<p align="left"><br><br>🖥 Front-End</p>
 
 ###
 
